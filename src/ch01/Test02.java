@@ -3,7 +3,7 @@ package ch01;
 /**
  * @author 
  * 日期：2018年11月11日 下午9:15:48
- * 
+ * 111
  */
 public class Test02 extends Thread {
 	private int count = 5;
